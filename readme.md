@@ -28,5 +28,4 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/git-clone-app.git
 
-Checked in on: 
-Checked in on: null
+Checked in on: 2025-01-17
